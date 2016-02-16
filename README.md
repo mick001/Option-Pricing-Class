@@ -14,4 +14,4 @@ See the LICENSE file for license rights and limitations (GPL 3.0).
 # Disclaimer
 This project is for educational purpose only. The author is not responsible for any consequence or loss due to inappropriate use. The project  may contain mistakes and errors. The numbers and methods used used might not be accurate. You should never use any part of this project for purposes different from the educational one. 
 
-I developed this project for fun and improve my coding skills, not for actual use.
+I developed this project for fun and to improve my coding skills, not for actual use.
