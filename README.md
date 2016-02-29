@@ -1,6 +1,6 @@
 # Option Pricing Class
-A "sidehobby" more than a sideproject: a class to price options written in Java. 
-I plan to add other derivatives and pricing methods although there is no fixed schedule or plan.
+A class to price options written in Java. 
+Perhaps in the future I'll add other derivatives and pricing methods. There is no fixed schedule or plan.
 Critics, comments, suggestions are all welcomed.
 
 # Examples of pricing options in Python and C++
