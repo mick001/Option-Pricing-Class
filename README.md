@@ -9,7 +9,7 @@ At the moment, the supported methods are the following:
 Perhaps in the future I'll add other derivatives and pricing methods. There is no fixed schedule or plan though.
 Critics, comments, suggestions are all welcomed. Feel free to contribute if you want to.
 
-## Examples of pricing options in Python and C++
+## Examples of options pricing in Python and C++
 Check [this article](http://firsttimeprogrammer.blogspot.com/2015/08/european-option-pricing-with-python.html) for some examples written in Python and C++ of the algorithms used (Monte Carlo and Black & Scholes formula).
 
 Other articles are available at [The Beginner Programmer](http://www.firsttimeprogrammer.blogspot.com).
